@@ -5,5 +5,8 @@ public class Main {
         System.out.println(saludo.generarSaludo("Mundo"));
         System.out.println("Versión 1.0.0 lista para producción.");
         System.out.println(despedida.generarDespedida("Mundo"));
+        System.out.println("***************");
+        System.out.println("* JAVA PROJECT *");
+        System.out.println("***************");
     }
 }
