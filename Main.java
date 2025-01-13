@@ -8,5 +8,8 @@ public class Main {
         System.out.println("***************");
         System.out.println("* JAVA PROJECT *");
         System.out.println("***************");
+        System.out.println(saludo.generarSaludo("Mundo", "en"));
+        System.out.println(saludo.generarSaludo("Mundo", "es"));
+        System.out.println(saludo.generarSaludo("Mundo", "fr"));
     }
 }
